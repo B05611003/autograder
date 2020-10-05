@@ -1,0 +1,25 @@
+---
+general:
+  name: hw0
+  description: ''
+  display_name: hw0
+  handin_filename: Solution
+  handin_directory: handin
+  handout: https://hackmd.io/nxED7UQJSw6YWWK5QA3YGA
+  max_grace_days: 0
+  writeup: ''
+  max_submissions: -1
+  disable_handins: false
+  max_size: 2
+  category_name: Lab
+  embedded_quiz: false
+
+problems:
+- name: case0
+  description: ''
+  max_score: 10.0
+  optional: false
+autograder:
+  autograde_timeout: 100
+  autograde_image: linnil1/judger
+  release_score: true
